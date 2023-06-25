@@ -1,0 +1,187 @@
+body
+{
+    min-width: 600px;
+    overflow: auto;
+}
+main
+{
+    border: 2px solid rgb(243, 238, 237);
+    width:1244px;
+    height: 750px;
+    margin-left: 140px;
+    margin-top: 140px;
+    box-shadow: 4px 4px 30px rgb(179, 179, 179);
+}
+/* ///here i faced a probleme when i made the window bigger the image move too  */
+/* #right
+{
+    position: absolute;
+    float: right;
+    top:220px;
+    right:340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+#left
+{
+    position: absolute;
+    top:140px;
+}
+#first
+{
+    position: absolute;
+    color: hsl(300, 43%, 22%);
+    font-size: 36px;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1.6px;
+    padding-left: 100px;
+    top:240px;
+}
+#para
+{
+    position: absolute;
+    color:hsl(300, 33%, 28%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    padding-left: 100px;
+    top: 380px;
+    white-space: nowrap;
+}
+#colton
+{
+    position: relative;
+    background-color:hsl(300, 43%, 22%);
+    color:aliceblue;
+    border-radius: 10px;
+    width: 340px;
+    height: 240px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+#ton
+{
+    margin-top: -65px;
+    margin-left: 120px;
+    color:aliceblue;
+}
+#col
+{
+    margin-left: 120px;
+    margin-top: -10px;
+    color: palevioletred;
+}
+#irene
+{
+    position:absolute;
+    background-color:hsl(300, 43%, 22%);
+    color:aliceblue;
+    border-radius: 10px;
+    width: 340px;
+    height: 240px;
+    margin-left: 350px;
+    top:550px;
+    left: 260px;
+}
+#rene
+{
+    margin-top: -85px;
+    margin-left: 120px;
+    color:aliceblue;
+}
+#ire
+{
+    margin-left: 120px;
+    margin-top: -10px;
+    color: palevioletred;;
+}
+#anne
+{
+    position:absolute;
+    background-color:hsl(300, 43%, 22%);
+    color:aliceblue;
+    border-radius: 10px;
+    width: 340px;
+    height: 240px;
+    top: 580px;
+    right: 200px;
+    left: 990px;
+}
+#nne
+{
+    margin-top: -65px;
+    margin-left: 120px;
+    color:aliceblue;
+}
+#ane
+{
+    margin-left: 120px;
+    margin-top: -10px;
+    color: palevioletred;
+}
+#img1
+{
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#img2
+{
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#img3
+{
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#one
+{
+    background-color: rgb(243, 226, 255);
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    margin-left: 600px;
+    margin-top: 118px;
+    padding-left: 24px;
+}
+#two
+{
+    background-color: rgb(243, 226, 255);
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    margin-left: 650px;
+    margin-top: 20px;
+    padding-left: 24px;
+}
+#three
+{
+    background-color: rgb(243, 226, 255);
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    margin-left: 700px;
+    margin-top: 20px;
+    padding-left: 24px;
+}
+ article p
+{
+    display: inline-block;
+    padding-left: 20px;
+    color:hsl(300, 69%, 12%) ;
+
+}
+#fix
+{
+    margin-top: 40px;
+    margin-left: 22px;
+    margin-right: 22px;
+    font-size: 12px;
+    font-style: unset;
+    line-height:1.8;
+
+}
